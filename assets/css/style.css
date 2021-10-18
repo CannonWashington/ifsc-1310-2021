@@ -1,9 +1,6 @@
-body{
-  font-family: 'Rampart One', fontworks;
-  margin:0;
-}
 .ul{
-    flex-direction:column;
+    flex-direction:row-reverse;
     justify-content:flex-start;
-    
+    display: flex;
+    row-gap: 5px;
 }
