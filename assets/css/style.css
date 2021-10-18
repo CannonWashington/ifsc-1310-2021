@@ -1,0 +1,15 @@
+body{
+    font-family: 'Permanent Marker';
+}
+
+main{
+  background-color:#172635;
+  color:#FF8CCF;
+  padding:1.8rem;
+}
+
+ul{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+}
