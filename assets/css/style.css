@@ -1,6 +1,4 @@
 .ul{
     flex-direction:row-reverse;
     justify-content:flex-start;
-    display: flex;
-    row-gap: 5px;
 }
