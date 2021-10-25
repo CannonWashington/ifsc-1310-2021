@@ -3,7 +3,29 @@
 body {
     background-color:#B34A49;
     font-family:roboto;
+    color:#FFFFFF;
+}
+.h1{
     display:flex;
     justify-content:center;
-    color:#FFFFFF;
+}
+.h2{
+    display:flex;
+    justify-content:center;
+}
+.nav{
+    display:flex;
+    justify-content:center;
+}
+.intro{
+    display:flex;
+    justify-content:center;
+}
+.content{
+    display:flex;
+    justify-content:center;
+}
+.header{
+    display:flex;
+    justify-content:center;
 }
