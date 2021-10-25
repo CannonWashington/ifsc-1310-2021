@@ -1,9 +1,9 @@
 /* CSS DEMO Stylesheet */
 
 body {
-    background-color:#E2E2E3;
-    font-family:ariel;
+    background-color:#B34A49;
+    font-family:roboto;
     display:flex;
     justify-content:center;
-    
+    color:#FFFFFF;
 }
