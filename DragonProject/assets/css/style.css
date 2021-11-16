@@ -1,0 +1,74 @@
+body {
+    background-color:#1B1B1D;
+    font-family:arial;
+    color:white;
+    margin:1;
+  line-height:2.0;
+  text-align: center;
+}
+header.primary nav l {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0;
+  max-width: 900px;
+  margin: 20px auto;
+    list-style-type: none;
+    border-radius:10px;
+}
+header.primary nav li {
+	background-color:#2F2F33;
+	 list-style-type: none;
+  padding: 0;
+  width: 18%;
+}
+
+header.primary nav a:link,
+header.primary nav a:visited {
+	color:#FFFFFF;
+}
+header.primary::before {
+	content: "";
+  background-image: url("https://drive.google.com/file/d/0BzzZeZwHD1sxelhzSlJuZE50X2M/view?usp=sharing");
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.4;
+}
+header.primary {
+    	border-top-width: 10px;
+	border-right-width: 10px;
+	border-bottom-width: 10px;
+	border-left-width: 10px;
+	border-top-style: inset;
+	border-right-style: inset;
+	border-bottom-style: inset;
+	border-left-style: inset;
+	border-color:#246CED;
+}
+.container {
+        	border-top-width: 10px;
+	border-right-width: 10px;
+	border-bottom-width: 10px;
+	border-left-width: 10px;
+	border-top-style: inset;
+	border-right-style: inset;
+	border-bottom-style: inset;
+	border-left-style: inset;
+	border-color:#ED553B;
+}
+footer{
+	    	border-top-width: 10px;
+	border-right-width: 10px;
+	border-bottom-width: 10px;
+	border-left-width: 10px;
+	border-top-style: inset;
+	border-right-style: inset;
+	border-bottom-style: inset;
+	border-left-style: inset;
+	border-color:#246CED;
+}
