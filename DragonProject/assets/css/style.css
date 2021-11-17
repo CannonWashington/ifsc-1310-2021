@@ -39,36 +39,3 @@ header.primary::before {
   left: 0px;
   opacity: 0.4;
 }
-header.primary {
-    	border-top-width: 10px;
-	border-right-width: 10px;
-	border-bottom-width: 10px;
-	border-left-width: 10px;
-	border-top-style: inset;
-	border-right-style: inset;
-	border-bottom-style: inset;
-	border-left-style: inset;
-	border-color:#246CED;
-}
-.container {
-        	border-top-width: 10px;
-	border-right-width: 10px;
-	border-bottom-width: 10px;
-	border-left-width: 10px;
-	border-top-style: inset;
-	border-right-style: inset;
-	border-bottom-style: inset;
-	border-left-style: inset;
-	border-color:#ED553B;
-}
-footer{
-	    	border-top-width: 10px;
-	border-right-width: 10px;
-	border-bottom-width: 10px;
-	border-left-width: 10px;
-	border-top-style: inset;
-	border-right-style: inset;
-	border-bottom-style: inset;
-	border-left-style: inset;
-	border-color:#246CED;
-}
