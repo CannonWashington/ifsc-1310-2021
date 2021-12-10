@@ -1,7 +1,10 @@
-.ul{
+ul{
     display: flex;
     justify-content:center;
     background-color:#959687;
     border-style:hidden;
     border-width:5px;
+}
+.main{
+    background-color:#959687;
 }
