@@ -39,3 +39,11 @@ header.primary::before {
   left: 0px;
   opacity: 0.4;
 }
+p
+{
+  border-bottom:1px hidden;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  width: 500px;
+}
